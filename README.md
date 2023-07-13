@@ -1,6 +1,6 @@
-This README.md was generated on 2023-03-03 by Yilin Chen.
+## High alpine burrow-sharing mammals and birds show similar population-level vulnerability to climate change
 
-**DATA & FILE OVERVIEW**
+#### DATA & FILE OVERVIEW
 
 1. We used three species in our study.
 
@@ -22,7 +22,7 @@ This README.md was generated on 2023-03-03 by Yilin Chen.
 
 4. The version of R software and how to install them can be found on each script. R version 4.1.0 was used to conduct all R analyses.
 
-**SPECIFIC INFORMATION FOR: data.zip**
+#### SPECIFIC INFORMATION FOR: data.zip
 
 1. Tibet_species_locations.csv: location records used in ecological niche models, variables information is described as following.
 	Species: species' scientific name
