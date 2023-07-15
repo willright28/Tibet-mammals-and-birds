@@ -1,4 +1,4 @@
-## High alpine burrow-sharing mammals and birds show similar population-level vulnerability to climate change
+## Code and data for 'Alpine burrow-sharing mammals and birds show similar population-level climate change risks'
 
 ### DATA & FILE OVERVIEW
 
